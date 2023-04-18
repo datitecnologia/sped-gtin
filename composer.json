@@ -34,7 +34,7 @@
         }
     ],
     "require": {
-        "php": ">= 7.4",
+        "php": ">= 7.2",
         "ext-dom": "*",
         "ext-curl": "*",
         "ext-openssl": "*",
@@ -42,7 +42,7 @@
         "ext-json": "*",
         "ext-simplexml": "*",
         "ext-libxml": "*",
-        "nfephp-org/sped-common": "^5.1.0"
+        "datitecnologia/sped-common": "^1.0"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "dev-master",
