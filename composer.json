@@ -1,5 +1,5 @@
 {
-    "name": "nfephp-org/sped-gtin",
+    "name": "datitecnologia/sped-gtin",
     "type": "library",
     "description": "Classes for validation of GTIN codes.",
     "keywords": [
